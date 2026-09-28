@@ -1,0 +1,2 @@
+# linux-crash
+linux fundaments
